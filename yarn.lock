@@ -2480,8 +2480,6 @@
   "resolved" "https://registry.npmjs.org/@types/lodash/-/lodash-4.14.181.tgz"
   "version" "4.14.181"
 
-"@types/markdown-it@*":
-
 "@types/markdown-it@^12.2.3":
   "integrity" "sha512-GKMHFfv3458yYy+v/N8gjufHO6MSZKCOXpZc5GXIWWy8uldwfmPn98vp81gZ5f9SVw8YYBctgfJ22a2d7AOMeQ=="
   "resolved" "https://registry.npmjs.org/@types/markdown-it/-/markdown-it-12.2.3.tgz"
@@ -3056,14 +3054,7 @@
     "delegates" "^1.0.0"
     "readable-stream" "^2.0.6"
 
-"argparse@^1.0.7":
-  "integrity" "sha512-o5Roy6tNG4SL/FOkCAN6RzjiakZS25RLYFrcMttJqbdd8BWrnA+fGz57iN5Pb06pvBGvl5gQ0B48dJlslXvoTg=="
-  "resolved" "https://registry.npmjs.org/argparse/-/argparse-1.0.10.tgz"
-  "version" "1.0.10"
-  dependencies:
-    "sprintf-js" "~1.0.2"
-
-"argparse@^2.0.1":
+"argparse@^1.0.7", "argparse@^2.0.1":
   "resolved" "https://registry.npmjs.org/argparse/-/argparse-2.0.1.tgz"
   "version" "2.0.1"
 
@@ -3993,8 +3984,6 @@
 "chrome-trace-event@^1.0.2":
   "resolved" "https://registry.npmjs.org/chrome-trace-event/-/chrome-trace-event-1.0.3.tgz"
   "version" "1.0.3"
-
-"chromedriver@*":
 
 "ci-info@^2.0.0":
   "integrity" "sha512-5tK7EtrZ0N+OLFMthtqOj4fI2Jeb88C4CAZPu25LDVUgXJ0A3Js4PMGqrn0JU1W0Mh1/Z8wZzYPxqUrXeBboCQ=="
@@ -5433,37 +5422,6 @@
 "es6-object-assign@^1.1.0":
   "resolved" "https://registry.npmjs.org/es6-object-assign/-/es6-object-assign-1.1.0.tgz"
   "version" "1.1.0"
-
-"esbuild-darwin-64@0.14.31":
-  "integrity" "sha512-kP6xPZHxtJa36Hb0jC05L3VzQSZBW2f3bpnQS20czXTRGEmM2GDiYpGdI5g2QYaw6vC4PYXjnigq8usd9g9jnQ=="
-  "resolved" "https://registry.npmjs.org/esbuild-darwin-64/-/esbuild-darwin-64-0.14.31.tgz"
-  "version" "0.14.31"
-
-"esbuild@^0.14.27":
-  "integrity" "sha512-QA0fUM13+JZzcvg1bdrhi7wo8Lr5IRHA9ypNn2znqxGqb66dSK6pAh01TjyBOhzZGazPQJZ1K26VrCAQJ715qA=="
-  "resolved" "https://registry.npmjs.org/esbuild/-/esbuild-0.14.31.tgz"
-  "version" "0.14.31"
-  optionalDependencies:
-    "esbuild-android-64" "0.14.31"
-    "esbuild-android-arm64" "0.14.31"
-    "esbuild-darwin-64" "0.14.31"
-    "esbuild-darwin-arm64" "0.14.31"
-    "esbuild-freebsd-64" "0.14.31"
-    "esbuild-freebsd-arm64" "0.14.31"
-    "esbuild-linux-32" "0.14.31"
-    "esbuild-linux-64" "0.14.31"
-    "esbuild-linux-arm" "0.14.31"
-    "esbuild-linux-arm64" "0.14.31"
-    "esbuild-linux-mips64le" "0.14.31"
-    "esbuild-linux-ppc64le" "0.14.31"
-    "esbuild-linux-riscv64" "0.14.31"
-    "esbuild-linux-s390x" "0.14.31"
-    "esbuild-netbsd-64" "0.14.31"
-    "esbuild-openbsd-64" "0.14.31"
-    "esbuild-sunos-64" "0.14.31"
-    "esbuild-windows-32" "0.14.31"
-    "esbuild-windows-64" "0.14.31"
-    "esbuild-windows-arm64" "0.14.31"
 
 "escalade@^3.1.1":
   "resolved" "https://registry.npmjs.org/escalade/-/escalade-3.1.1.tgz"
@@ -10329,7 +10287,7 @@
     "picocolors" "^0.2.1"
     "source-map" "^0.6.1"
 
-"postcss@^8.0.2", "postcss@^8.1.0", "postcss@^8.2.15", "postcss@^8.4.12", "postcss@>=5.0.0", "postcss@>=7.0.0":
+"postcss@^8.0.2", "postcss@^8.1.0", "postcss@^8.2.15", "postcss@>=5.0.0", "postcss@>=7.0.0":
   "resolved" "https://registry.npmjs.org/postcss/-/postcss-8.4.12.tgz"
   "version" "8.4.12"
   dependencies:
@@ -11187,7 +11145,7 @@
   "resolved" "https://registry.npmjs.org/resolve-url/-/resolve-url-0.2.1.tgz"
   "version" "0.2.1"
 
-"resolve@^1.1.6", "resolve@^1.1.7", "resolve@^1.10.0", "resolve@^1.12.0", "resolve@^1.14.2", "resolve@^1.18.1", "resolve@^1.20.0", "resolve@^1.22.0", "resolve@^1.9.0":
+"resolve@^1.1.6", "resolve@^1.1.7", "resolve@^1.10.0", "resolve@^1.12.0", "resolve@^1.14.2", "resolve@^1.18.1", "resolve@^1.20.0", "resolve@^1.9.0":
   "resolved" "https://registry.npmjs.org/resolve/-/resolve-1.22.0.tgz"
   "version" "1.22.0"
   dependencies:
@@ -11245,13 +11203,6 @@
   dependencies:
     "hash-base" "^3.0.0"
     "inherits" "^2.0.1"
-
-"rollup@^2.59.0":
-  "integrity" "sha512-CRYsI5EuzLbXdxC6RnYhOuRdtz4bhejPMSWjsFLfVM/7w/85n2szZv6yExqUXsBdz5KT8eoubeyDUDjhLHEslA=="
-  "resolved" "https://registry.npmjs.org/rollup/-/rollup-2.70.1.tgz"
-  "version" "2.70.1"
-  optionalDependencies:
-    "fsevents" "~2.3.2"
 
 "rsvp@^4.8.4":
   "integrity" "sha512-nfMOlASu9OnRJo1mbEk2cz0D56a1MBNrJ7orjRZQG10XDyuvwksKbuXNp6qa+kbn839HwjwhBzhFmdsaEAfauA=="
@@ -12938,18 +12889,6 @@
     "is-buffer" "^2.0.0"
     "unist-util-stringify-position" "^2.0.0"
     "vfile-message" "^2.0.0"
-
-"vite@^2.5.1":
-  "integrity" "sha512-vSlsSdOYGcYEJfkQ/NeLXgnRv5zZfpAsdztkIrs7AZHV8RCMZQkwjo4DS5BnrYTqoWqLoUe1Cah4aVO4oNNqCQ=="
-  "resolved" "https://registry.npmjs.org/vite/-/vite-2.9.1.tgz"
-  "version" "2.9.1"
-  dependencies:
-    "esbuild" "^0.14.27"
-    "postcss" "^8.4.12"
-    "resolve" "^1.22.0"
-    "rollup" "^2.59.0"
-  optionalDependencies:
-    "fsevents" "~2.3.2"
 
 "vm-browserify@^1.1.2":
   "resolved" "https://registry.npmjs.org/vm-browserify/-/vm-browserify-1.1.2.tgz"
