@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "pizzas",
+  "info": {
+    "singularName": "pizza",
+    "pluralName": "pizzas",
+    "displayName": "pizza"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "size": {
+      "type": "string"
+    }
+  }
+}
